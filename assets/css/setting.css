@@ -13,7 +13,7 @@
 	font-family: 'Times-News-Roman';
 	font-weight: 400;
 	font-display: swap;
-	src:url('../_Font/Times-Roman.otf') format('opentype');
+	src:url('../font/Times-Roman.otf') format('opentype');
 }
 
 /* ------------------------------ [ Layout Reset ] ------------------------------------------------------------------------------------------ */
